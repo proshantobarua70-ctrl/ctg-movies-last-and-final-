@@ -1,0 +1,8 @@
+.github
+worker
+scripts
+scraper.js
+live.js
+data.json
+data.json.gz
+README.md
